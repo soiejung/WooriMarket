@@ -5,3 +5,6 @@
   - member: 회원정보 관리
   - product: 상품 정보 관리
   - productId_purchase: 상품 구매 회원 목록 관리
+
+* 구현 환경
+  - eclipse
